@@ -1,7 +1,7 @@
 # sinatra-simple
 
-## Install Sinatra
-`gem install sinatra`
+## Install Dependencies
+`bundle install`
 
 ## Launch Application
-`ruby app.rb`
+`bundle exec ruby app.rb`
